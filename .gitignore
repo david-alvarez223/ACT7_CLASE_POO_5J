@@ -1,0 +1,3 @@
+git remote add origin https://github.com/david-alvarez223/ACT7_CLASE_POO_5J.git
+git branch -M main
+git push -u origin main
